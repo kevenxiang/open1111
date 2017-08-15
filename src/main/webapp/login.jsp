@@ -66,7 +66,7 @@
   <div class="clearfix"></div>
   
   <div>
-     南通小锋网络公司版本所有 2012-2016
+     Java1111 2016-2017
   </div>
   
   <a href="javascript:submitData()" class="btn btn-login btn-danger btn-float">

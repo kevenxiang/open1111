@@ -7,8 +7,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>${article.title }_Open1111官方网站 -南通小锋网络科技有限公司</title>
-<meta name="Author" content="Java1234_小锋老师">
+<title>${article.title }_Java1111官方网站 -easycol</title>
+<meta name="Author" content="Java1111-kevenxiang">
 <meta name="keywords"
 	content="${article.keyWords }" />
 <meta name="description"
